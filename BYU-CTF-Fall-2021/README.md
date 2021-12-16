@@ -19,7 +19,7 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
  - The first visible sign shows that this road is on Route 16
  - There is a partly covered sign that starts with the number 2
  - Looking at the Wikipedia article for Massachusetts Route 16, we can see the major intersections on this route.
- - One of the major intersecting routes is 28 in Reading. Looking back at the picture we ca see that on the sign there appears to be the letters "Rea". It seems we are on the right track!
+ - One of the major intersecting routes is 28 in Reading. Looking back at the picture we can see that on the sign there appears to be the letters "Rea". It seems we are on the right track!
  ![Intersection](Pictures/Route28.png)
  3. Find the Intersection
  - Open Google Maps and locate where Route 16 intersects with Route 28 in Reading, Massachusetts
