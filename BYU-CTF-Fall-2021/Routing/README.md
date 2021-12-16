@@ -23,8 +23,8 @@ File: INBOX.mbox
  ![Base64](Pictures/Base64.png)
 
 3. Convert Base64 back to PDF  
- After finding the Base64 encoding of the PDF, I placed it in the online tool [Base65 Guru](https://base64.guru/converter/decode/file) to convert it back to a PDF file. From here, I was able to view the file and find the routing number we were looking for. 
-
+ After finding the Base64 encoding of the PDF, I placed it in the online tool [Base64 Guru](https://base64.guru/converter/decode/file) to convert it back to a PDF file. The PDF file was the invoice mentioned earlier and from it I was able to find the ACH routing number.
+ 
  ![File](Pictures/File.png)
 
 
