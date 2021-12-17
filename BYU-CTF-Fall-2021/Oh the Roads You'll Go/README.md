@@ -25,10 +25,9 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
  - Open Google Maps and locate where Route 16 intersects with Route 28 in Reading, Massachusetts
  - We found it!
  4. Calculate Miles
- - There are a different ways you can do this part:
-    - Right click on the intersection location and select "Measure distance". Navigate to the Crabtree and click on that location to measure the distance.
-    ![Distance1](Pictures/Distance2.png)
-    - Copy coordinates of intersection  (42.4056915255047, -71.08071615965494). Google the BYU Crabtree coordinates  (40.2478° N, 111.6468° W)Enter both coordinates into an online tool ([FreeMapTools](https://www.freemaptools.com/how-far-is-it-between-boston_-massachussets-and-los-angeles-california_-usa.htm) works) that will calculate the distance as the crow flies.
+ - Copy coordinates of intersection (42.4056915255047, -71.08071615965494)
+ - Google the BYU Crabtree coordinates (40.2478° N, 111.6468° W)
+ - Enter both coordinates into an online tool ([FreeMapTools](https://www.freemaptools.com/how-far-is-it-between-boston_-massachussets-and-los-angeles-california_-usa.htm) to calculate the distance as the crow flie
  ![Distnace2](Pictures/Distance.png)
  - Bam! There's your answer  
    
@@ -36,4 +35,4 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
  **ctf{2089}**
 
  ## Real World Application
- This challenge was a great way to learn how to extrapolate available data from an single source and gather new information based off that initial source. In the image there was some information in there that looked like it could be helpful, but,after looking into it further and looking at other pieces of information, was found to be irrelvant. Because of that, this challenge was also a great exercise for knowing how to determine what data is relevant and what is not.
+  This challenge was a great way to learn how to find small pieces of data from an initial source and build off those pieces to gather more information. In the image there was some information that looked like it could be helpful, but further investigation later showed that that data was irrelevant. Because of that, this challenge was also a great exercise for knowing how to determine what data is relevant and what is not.
