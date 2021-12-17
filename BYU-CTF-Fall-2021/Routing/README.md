@@ -7,8 +7,6 @@ Example flag - ctf{00000000}
 
 Disclaimer - these are actual emails from the breach, so please be careful and do not interact with any IP addresses or domains found here.
 
-File: INBOX.mbox
-
 ## Process
 1. Grep File to Find Relevant Lines  
 
