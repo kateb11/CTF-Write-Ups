@@ -16,7 +16,7 @@ The first thing that I did was download the file and in a Linux Command Line run
 
 2. View Relevant Line in a File Editor  
 
-After finding the relevant line, I opened the file in Visual Studio Code and searched the file using 'Ctrl + f'. Searching for "Cologix Billing" brought me to an email, very deep in the file, that said to contain a copy of an invoice. Scrolling to the end of this email, I found two attachments, a PNG and a PDF, and their Base 64 encodings.   
+After finding the relevant line, I opened the file in Visual Studio Code and searched the file using 'Ctrl + f'. Searching for "Cologix Billing" brought me to an email, very deep in the file, that said to contain a copy of an invoice. Scrolling to the end of this email, I found two attachments and their as 64 encoding. The attachments were a PNG and a PDF.   
 
  ![Email](Pictures/Email.png) 
 
