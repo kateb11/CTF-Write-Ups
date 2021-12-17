@@ -14,7 +14,7 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
 
 1. Look Up Phone Number on the Car
  - Looking up the area code, we know that this is somewhere in Massachusetts
- - While the whole phone number belongs to Boston Plantscape in Framingham, MA, we will find out later that that information is not relevant. 
+ - While the whole phone number belongs to Boston Plantscape in Framingham, MA, we will find out later that that information is not relevant
 2. Look Up Route Numbers
  - The first visible sign shows that this road is on Route 16
  - There is a partly covered sign that starts with the number 2
@@ -27,7 +27,7 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
  4. Calculate Miles
  - Copy coordinates of intersection (42.4056915255047, -71.08071615965494)
  - Google the BYU Crabtree coordinates (40.2478° N, 111.6468° W)
- - Enter both coordinates into an online tool ([FreeMapTools](https://www.freemaptools.com/how-far-is-it-between-boston_-massachussets-and-los-angeles-california_-usa.htm) to calculate the distance as the crow flie
+ - Enter both coordinates into an online tool ([FreeMapTools](https://www.freemaptools.com/how-far-is-it-between-boston_-massachussets-and-los-angeles-california_-usa.htm) to calculate the distance as the crow flies
  ![Distnace2](Pictures/Distance.png)
  - Bam! There's your answer  
    
