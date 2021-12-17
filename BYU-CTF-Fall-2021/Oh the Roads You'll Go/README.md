@@ -34,5 +34,5 @@ In this OSINT challenge, we are given this screenshot from Google Maps and are t
 ## Flag
  **ctf{2089}**
 
- ## Real World Application
-  This challenge was a great way to learn how to find small pieces of data from an initial source and build off those pieces to gather more information. In the image there was some information that looked like it could be helpful, but further investigation later showed that that data was irrelevant. Because of that, this challenge was also a great exercise for knowing how to determine what data is relevant and what is not.
+## Real World Application
+This challenge was a great way to learn how to find small pieces of data from an initial source and build off those pieces to gather more information. In the image there was some information that looked like it could be helpful, but further investigation later showed that that data was irrelevant. Because of that, this challenge was also a great exercise for knowing how to determine what data is relevant and what is not.
